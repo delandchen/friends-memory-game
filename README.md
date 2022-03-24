@@ -46,10 +46,14 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-I visited various HTML, CSS, and JavaScript learning/documentation websites such as W3School and developer.mozilla.org whenever I got stuck on a feature, needed to understand how a certain method worked, or needed a quick refresher on some elements. I used SITE program pre-work guide and YouTube videoes for the more difficult sections such as implementing audio.
+
+- I visited various HTML, CSS, and JavaScript learning/documentation websites such as W3School and developer.mozilla.org whenever I got stuck on a feature, needed to understand how a certain method worked, or needed a quick refresher on some elements. I used SITE program pre-work guide and YouTube videoes for the more difficult sections such as implementing audio.
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-A challenge I faced was adding the 3 strikes feature, where one of three buttons would light up whenever a user selected a wrong button. I knew where to put the pieces of code, but the program kept breaking. For example: the CSS wouldn't place the strike buttons where I wanted, the "YOU LOST" alert would appear before the 3rd strike lit up, and finally whenever the user started a new game, the 1st and 3rd strikes would reset but the 2nd one would stay lit. On top of all that, this was when I realized my code wasn't as organized as I thought, which made debugging harder.
+
+- A challenge I faced was adding the 3 strikes feature, which gave a user 3 wrong guesses before they lost. I knew where to put the pieces of code, but the program kept breaking. For example: the CSS wouldn't place the strike buttons where I wanted, the "YOU LOST" alert would appear before the 3rd strike lit up, and finally whenever the user started a new game, the 1st and 2nd strikes would reset but the 3rd one would stay lit. On top of all that, this was when I realized my code wasn't as organized as I thought, which made debugging harder. To solve this, I started by refactoring and commenting on my code which made it much easier to locate the bugs. For the CSS issue, I searched online for a flexbox guide and figured out how to use a combination of flex-direction, justify-content, and margins to fix my buttons. For the 2nd problem, I used google and learned that the DOM takes time to update, and my JavaScript function did not wait for that. I looked up a method that could delay a function from executing until after my HTML element updated. The fix was a setTimeout method that was additionally used in the clue sequence playing functions. Overcoming that helped me understand the setTimeout method better, which subsequently gave me a stronger understanding of how the clue playing sequence worked. And finally, fixing this bug also fixed my last bug, which made sense as they were clearly connected. The delayed DOM update for my 3rd strike button led to it not updating with the other strike buttons.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
