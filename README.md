@@ -1,6 +1,6 @@
 # Pre-work - *Memory Game*
 
-**FRIENDS memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**FRIENDS Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
 Submitted by: **Deland Chen**
 
