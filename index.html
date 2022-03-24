@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="index.css">
+        <script src="index.js" defer></script>
+    </head>
+
+    <body>
+        <div class="titleDiv">
+            <h1 class="title"> FRIENDS SIMON</h1> 
+            <p class="description"> Repeat the pattern to win the game! </p>
+            <input id="difficulty" type="text" inputmode="numeric" placeholder="Enter Difficulty"> </input>
+            <button id="startbtn" onclick="startGame()"> Start </button> 
+            <button id="stopbtn" onclick="stopGame()" class="hidden"> Stop </button> 
+
+            <div class="timer">
+                <h2> Timer: </h2>
+                <h2 id="time"> 120 </h2>
+            </div>
+
+            <div class="strikes">
+            <button id="s1"> </button>
+            <button id="s2"> </button>
+            <button id="s3"> </button>
+            </div>
+        </div>
+        
+
+        <div class="game">
+        <button id="monica" onclick="guess('monica')" onmousedown="startTone('monica')" onmouseup="stopTone()"
+        > </button>
+        <button id="rachel" onclick="guess('rachel')"onmousedown="startTone('rachel')" onmouseup="stopTone()"
+        > </button>
+        <button id="ross" onclick="guess('ross')" onmousedown="startTone('ross')" onmouseup="stopTone()"
+        > </button>
+        <button id="chandler" onclick="guess('chandler')" onmousedown="startTone('chandler')" onmouseup="stopTone()"
+        > </button>
+        <button id="joey" onclick="guess('joey')" onmousedown="startTone('joey')" onmouseup="stopTone()"
+        > </button>
+        <div>
+    </body>
+</html>
