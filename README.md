@@ -6,7 +6,7 @@ Submitted by: **Deland Chen**
 
 Time spent: **8** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: https://spiky-colossal-isthmus.glitch.me
 
 ## Required Functionality
 
