@@ -56,10 +56,12 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+- How do I create a more unique project? I enjoy working in teams because my teammates always bring a new perspective and we can bounce ideas off each other. But whenever I work alone, I feel like my creative side just turns off until a lightbulb turns on. Coming up with a innovative idea that also doesn't have a lot of holes is extremely hard. So to sum up my question: what do you personally do to gain inspiration?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+
+- If I had a few more hours, I would like to implement a more interesting tone for the button audio. My project was FRIENDS themed and I wanted to find audio that matched, but I couldn't. If I had more time, I would have taken an MP3 file of the theme song and edited it down to sound bites I could've added to my game. Additionally, I felt my JavaScript code was organized, but my CSS file was a little messy. With extra time, I would have commented my CSS code better.
 
 
 
