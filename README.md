@@ -40,7 +40,7 @@ The following **additional** features are implemented:
 **This GIF shows: STOP and START, BUTTON RESPONSE, TIMER, WINNING, DIFFICULTY SELECTION (# of patterns)**
 ![](http://g.recordit.co/de7I8GKwGJ.gif)
 
-**This GIF shows: LOSING, THREE STRIKES, DIFFICULTY (DIFFERENT PATTERN LENGTH), also when timer hits 0, the user loses.
+**This GIF shows: LOSING, THREE STRIKES, DIFFICULTY (DIFFERENT PATTERN LENGTH), also when timer hits 0, the user loses**
 ![](http://g.recordit.co/6DP82WYlzw.gif)
 
 
