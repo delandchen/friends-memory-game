@@ -39,9 +39,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 **This GIF shows: STOP and START, BUTTON RESPONSE, TIMER, WINNING, DIFFICULTY SELECTION (# of patterns)**
 ![](http://g.recordit.co/de7I8GKwGJ.gif)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+**This GIF shows: LOSING, THREE STRIKES, DIFFICULTY (DIFFERENT PATTERN LENGTH), also when timer hits 0, the user loses.
+![](http://g.recordit.co/6DP82WYlzw.gif)
+
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
