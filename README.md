@@ -37,9 +37,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app!
 
 ## Video Walkthrough (GIF)
-
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-** This GIF shows: STOP and START, BUTTON RESPONSE, TIMER, WINNING, DIFFICULTY SELECTION (# of patterns)
+** This GIF shows: STOP and START, BUTTON RESPONSE, TIMER, WINNING, DIFFICULTY SELECTION (# of patterns) **
 ![](http://g.recordit.co/de7I8GKwGJ.gif)
 ![](gif2-link-here)
 ![](gif3-link-here)
